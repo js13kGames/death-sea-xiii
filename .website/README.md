@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - adventure
+  - survival
 post: https://github.com/misabitencourt/death-sea-xiii/blob/master/POST_MORTEM.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
